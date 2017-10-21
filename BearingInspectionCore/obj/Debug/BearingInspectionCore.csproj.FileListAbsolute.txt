@@ -1,0 +1,10 @@
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\bin\Debug\BearingInspectionCore.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\bin\Debug\BearingInspectionCore.pdb
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\bin\Debug\log4net.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\bin\Debug\OrbitLibrary.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\bin\Debug\log4net.xml
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\obj\Debug\BearingInspectionCore.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\obj\Debug\BearingInspectionCore.pdb
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\obj\Debug\BearingInspectionCore.csprojResolveAssemblyReference.cache
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\obj\Debug\BearingInspectionCore.SolartronMockUp.resources
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\BearingInspectionCore\obj\Debug\BearingInspectionCore.csproj.GenerateResource.Cache
